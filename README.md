@@ -1,7 +1,7 @@
 ## 你好👋 我是林同学 
 
 - 🎯 学技术，做有趣的事，成为一名优秀的开发者。
-- 👩‍💻 目前在实习中，做Java后端开发。 
+- 👩‍💻 目前在学 Redis 常见应用及落地实现，在看《重构：改善既有代码的设计》，学习怎么写好代码以及如何重构🤏
 - 💫 算法刷题：<a href="https://github.com/lintongxue0/leetcode/tree/main/src" target="_blank">偶尔刷一下还挺好玩的</a>✨
 - 📝 技术文档：<a href="https://blog.csdn.net/weixin_64176495?spm=1000.2115.3001.5343" target="_blank">CSDN『 老师好我叫林同学 』</a>
 
